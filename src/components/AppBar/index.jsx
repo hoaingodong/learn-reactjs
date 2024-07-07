@@ -1,6 +1,6 @@
 
-import { Container, Box } from "@mui/material";
-import ModeToggle from "../../components/ModeSelect";
+import { Box } from "@mui/material";
+import ModeToggle from "~/components/ModeSelect";
 
 
 function AppBar() {
